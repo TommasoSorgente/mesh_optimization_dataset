@@ -3,15 +3,15 @@ Datasets used for "Mesh Optimization for the Virtual Element Method: How Small C
 
 The repository contains two **polygonal datasets**:
 
-<p align="center"><img src="tet_datasets.png" width="500"></p>
+<p align="center"><img src="2D.png" width="500"></p>
 
 two **polyhedral datasets**:
 
-<p align="center"><img src="hex_datasets.png" width="500"></p>
+<p align="center"><img src="3D.png" width="500"></p>
 
-and one **cad mesh**:
+and one **cad mesh**: 
 
-<p align="center"><img src="voro_datasets.png" width="500"></p>
+<p align="center"><img src="cad.png" width="500"></p>
 
 ## Content
 
