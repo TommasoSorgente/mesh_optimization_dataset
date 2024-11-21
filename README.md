@@ -34,9 +34,11 @@ If you use one or more datasets in your academic projects, please consider citin
 ```
 @article{sorgente2024mesh,
   title={Mesh Optimization for the Virtual Element Method: How Small Can an Agglomerated Mesh Become?},
-  author={Sorgente, Tommaso and Berrone, Stefano and Biasotti, Silvia and Manzini, Gianmarco and Spagnuolo, Michela and Vicini, Fabio},
-  journal={arXiv preprint arXiv:2404.11484},
-  year={2024}
+  author={Sorgente, Tommaso and Vicini, Fabio and Berrone, Stefano and Biasotti, Silvia and Manzini, Gianmarco and Spagnuolo, Michela},
+  journal={Journal of Computational Physics},
+  pages={113552},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
 
